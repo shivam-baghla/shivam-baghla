@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @shivambaghla
-- 👀 I’m interested in changin the world.
-- 🌱 I’m currently learning GraphQL and some other cool stuff
-- 💞️ I’m looking to collaborate on engineering oriented UI projects.
-- 📫 reach me at : [<img alt="alt_text" width="16px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/shivam-baghla/)
+## Hi, I'm Shivam Baghla!
+<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
 
-<a href="https://calendly.com/shivambaghla" target="_blank">Schedule discussion with me</a>
+[![Linkedin: Shivam Baghla](https://img.shields.io/badge/-Shivam%20Baghla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-baghla/)](https://www.linkedin.com/in/shivam-baghla/)
+![GitHub followers](https://img.shields.io/github/followers/shivam-baghla?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=shivam-baghla.shivam-baghla)
+
+### Fav quote: 
+> The grade of work you offer to the world reflects the strength of respect you have for yourself.
+
+### About me
+```javascript
+const ShivamBaghla = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "HTML", "CSS", "GraphQL"],
+    knowsAbout: ["web dev", "tech", "startups", "career growth"],
+    technologies: {
+        frontEnd: ["Javascript", "Reactjs", "Redux"],
+        backEnd: [ "Node", "Express"],
+        misc: ["AWS", "Automation(s)", "puppeteer"]
+    },
+    developmentSystems: ["SPA", "Monoliths", "Microservices"],
+    currentFocus: ["Web Solutions", "GraphQL"]
+};
+```
