@@ -3,7 +3,6 @@
 
 [![Linkedin: Shivam Baghla](https://img.shields.io/badge/-Shivam%20Baghla-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivam-baghla/)](https://www.linkedin.com/in/shivam-baghla/)
 [![Web: Shivam Baghla](https://img.shields.io/badge/-shivambaghla.com-blue?style=flat&logo=Google%20Chrome&logoColor=white&link=https://shivambaghla.com/)](https://shivambaghla.com/)
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/shivambaghla)](https://peerlist.io/shivambaghla)
 ![GitHub followers](https://img.shields.io/github/followers/shivam-baghla?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=shivam-baghla.shivam-baghla)
 
